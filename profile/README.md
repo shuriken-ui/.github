@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3911343/232132279-8d8bf0ad-b1d7-4802-984e-a696763dc6cd.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/3911343/232132309-62971744-dcdb-429c-aa93-6ba0c1caac42.png">
-    <img alt="Shuriken UI logo" src="https://user-images.githubusercontent.com/3911343/232132309-62971744-dcdb-429c-aa93-6ba0c1caac42.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cssninjaStudio/tairo/8b030e74707e90fee237972520365c55aa7e6952/.demo/public/img/logos/brands/shuriken-gradient-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cssninjaStudio/tairo/8b030e74707e90fee237972520365c55aa7e6952/.demo/public/img/logos/brands/shuriken-gradient-light.svg">
+    <img alt="Shuriken UI logo" src="https://raw.githubusercontent.com/cssninjaStudio/tairo/8b030e74707e90fee237972520365c55aa7e6952/.demo/public/img/logos/brands/shuriken-gradient-light.svg">
   </picture>
 </p>
 
