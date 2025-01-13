@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/shuriken-ui/.github/assets/86636408/278e3026-1997-4e01-9457-20772adbce31">
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/shuriken-ui/.github/assets/86636408/06f9d8e2-38aa-45b2-b91e-1c891a20e271">
-    <img alt="Shuriken UI logo" src="https://github.com/shuriken-ui/.github/assets/86636408/06f9d8e2-38aa-45b2-b91e-1c891a20e271">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/f448b411-7c82-4d50-94c4-61aff953667e">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/542c6818-98df-4efd-b24c-93a51f5f05b1">
+    <img alt="Shuriken UI logo" src="https://github.com/user-attachments/assets/542c6818-98df-4efd-b24c-93a51f5f05b1">
   </picture>
 </p>
 
